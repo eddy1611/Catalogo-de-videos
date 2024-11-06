@@ -1,6 +1,6 @@
 body {
-   background: black;
    color: white;
+   background: black;
    margin: 0px;
 }
 
@@ -9,4 +9,7 @@ header {
    padding: 20px;
    font-size: 32px;
    color: rgb(243, 0, 0);
+
+
+
 }
